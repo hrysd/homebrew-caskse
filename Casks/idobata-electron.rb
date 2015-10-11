@@ -9,5 +9,5 @@ cask :v1 => 'idobata-electron' do
   homepage 'https://github.com/hrysd/idobata-electron'
 
   license :mit
-  app 'Idobata Electron.app'
+  app 'idobata-electron.app'
 end
