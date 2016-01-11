@@ -1,4 +1,4 @@
-cask :v1 => 'idobata-electron' do
+cask 'idobata-electron' do
   version '0.2.0'
   sha256 '2d5653f752b14ba861affa1580cdb461921ff901dada0f29a258076d55d56054'
 
