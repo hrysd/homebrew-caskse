@@ -1,6 +1,6 @@
 cask 'idobata-electron' do
-  version '0.4.5'
-  sha256 '9b69362a09c846c66d83faf2cbab1b9f831ea37e8b0fd5d884ab56eae8313f3b'
+  version '0.4.6'
+  sha256 '498000e2a553288aed7fb28941b630fc40d55f1c2ad1c4944a64d0f0d10f4dd7'
 
   url "https://github.com/hrysd/idobata-electron/releases/download/v#{version}/idobata-electron-v#{version}-darwin.zip"
   appcast 'https://github.com/hrysd/idobata-electron/releases.atom'
